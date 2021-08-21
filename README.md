@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying on Le Wagon Bootcamp
 - 🌱 I’m currently working with Ruby on Rails
-- ❤️ I’m looking to work with Front End
+- ❤️ I’m looking for to work as a Front End Dev
 - 🎨 I'm a very creative person
 - 🕹️ Technologies and Games Lover
 <div>
