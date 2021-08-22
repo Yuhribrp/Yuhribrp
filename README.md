@@ -22,8 +22,7 @@
   ##
   
  <div>
-   <a href="https://lewagon-alumni.slack.com/team/U027FJVAJBG" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
-  <a href="https://app.slack.com/client/T02NE0241/C02NE024R/user_profile/U027FJVAJBG" target="_blank"><img src="	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
+   <a href="https://app.slack.com/client/T02NE0241/C02NE024R/user_profile/U027FJVAJBG" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/yuhribenaion/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
