@@ -1,7 +1,7 @@
 ### Hi there, i'm Yuhri !
 
-- 🔭 I’m currently studying on Le Wagon Bootcamp
-- 🌱 I’m a Ruby on Rails Full-Stack Developer
+- 🔭 I’m a Ruby on Rails Full-Stack Developer 
+- 🌱 Graduated by Le Wagon
 - ❤️ I’m looking for to work as a Front End Dev
 - 🎨 I'm a very creative person
 - 🕹️ Technologies and Games Lover
