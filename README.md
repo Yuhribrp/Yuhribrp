@@ -1,4 +1,4 @@
-### Hi there, i'm Yuhri !                     <img align="right" alt="yuhri-avt" width="15%"                src="https://cdn.discordapp.com/attachments/244891533386579969/887345453237149716/4hsh.gif">
+### Hi there, i'm Yuhri !                     <img align="center" alt="yuhri-avt" width="16%"                src="https://cdn.discordapp.com/attachments/244891533386579969/887345453237149716/4hsh.gif">
 
 - 🔭 I’m a Ruby on Rails Full-Stack Developer 
 - 🌱 Graduated by Le Wagon
@@ -16,7 +16,7 @@
   <img align="center" alt="Yuhri-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Yuhri-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Yuhri-js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="yuhri-avt2" height="80" width="80" src="https://cdn.discordapp.com/attachments/244891533386579969/887345771219914792/Xqg8.gif">
+  <img align="right" alt="yuhri-avt2" height="100" width="100" src="https://cdn.discordapp.com/attachments/244891533386579969/887345771219914792/Xqg8.gif">
 </div>
   
   ##
