@@ -16,7 +16,7 @@
   <img align="center" alt="Yuhri-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Yuhri-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Yuhri-js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="yuhri-avt" width="15%" src="https://cdn.discordapp.com/attachments/277248936299855872/878500416738979850/output_wuqV3Z.gif">
+  <img align="right" alt="yuhri-avt" width="15%" src="https://cdn.discordapp.com/attachments/244891533386579969/887345453237149716/4hsh.gif">
 </div>
   
   ##
