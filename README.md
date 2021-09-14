@@ -1,4 +1,4 @@
-### Hi there, i'm <strong>Yuhri</strong> !                     <img align="center" alt="yuhri-avt" width="16%"                src="https://cdn.discordapp.com/attachments/244891533386579969/887345453237149716/4hsh.gif">
+### Hi there, i'm **Yuhri** !                     <img align="center" alt="yuhri-avt" width="16%"                src="https://cdn.discordapp.com/attachments/244891533386579969/887345453237149716/4hsh.gif">
 
 - 🔭 I’m a Ruby on Rails Full-Stack Developer 
 - 🌱 Graduated by Le Wagon
