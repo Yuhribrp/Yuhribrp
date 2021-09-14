@@ -1,4 +1,4 @@
-### Hi there, i'm Yuhri !                                                    <img align="right" alt="yuhri-avt" width="15%"                      src="https://cdn.discordapp.com/attachments/244891533386579969/887345453237149716/4hsh.gif">
+### Hi there, i'm Yuhri !                                         <img align="right" alt="yuhri-avt" width="15%"                      src="https://cdn.discordapp.com/attachments/244891533386579969/887345453237149716/4hsh.gif">
 
 - 🔭 I’m a Ruby on Rails Full-Stack Developer 
 - 🌱 Graduated by Le Wagon
@@ -18,13 +18,13 @@
   <img align="center" alt="Yuhri-js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
-  ##
+  ##        <img align="right" alt="yuhri-avt2" width="15%" src="https://cdn.discordapp.com/attachments/244891533386579969/887345771219914792/Xqg8.gif">
   
  <div>
    <a href="https://app.slack.com/client/T02NE0241/C02NE024R/user_profile/U027FJVAJBG" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/yuhribenaion/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yuhri-benaion-851bb9216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <img align="right" alt="yuhri-avt2" width="15%" src="https://cdn.discordapp.com/attachments/244891533386579969/887345771219914792/Xqg8.gif"> 
+   
    ![Snake animation](https://github.com/Yuhribrp/Yuhribrp/blob/output/github-contribution-grid-snake.svg)
  
 </div>
