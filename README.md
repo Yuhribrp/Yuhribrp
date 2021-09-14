@@ -7,6 +7,7 @@
 - 🕹️ Technologies and Games Lover
 <div>
   <a href="https://github.com/Yuhribrp">
+   <img align="right" alt="yuhri-avt" width="15%" src="https://cdn.discordapp.com/attachments/244891533386579969/887345453237149716/4hsh.gif">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yuhribrp&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuhribrp&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
@@ -16,7 +17,7 @@
   <img align="center" alt="Yuhri-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Yuhri-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Yuhri-js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="yuhri-avt" width="15%" src="https://cdn.discordapp.com/attachments/244891533386579969/887345453237149716/4hsh.gif">
+  <img align="right" alt="yuhri-avt" width="15%" src="https://cdn.discordapp.com/attachments/244891533386579969/887345758586671164/WiCJ.gif">
 </div>
   
   ##
