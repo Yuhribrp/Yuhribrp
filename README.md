@@ -18,6 +18,7 @@
   <img align="center" alt="Yuhri-js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   <img align="center" alt="yuhri-avt2" width="15%" src="https://cdn.discordapp.com/attachments/244891533386579969/887345771219914792/Xqg8.gif">
+  
   ##
   
  <div>
