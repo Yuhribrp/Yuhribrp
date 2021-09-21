@@ -2,7 +2,6 @@
 
 - 🔭 I’m a Ruby on Rails Full-Stack Developer 
 - 🌱 Graduated from Le Wagon
-- ❤️ I’m looking for to work as a Front End Dev
 - 🎨 I'm a very creative person
 - 🕹️ Technologies and Games Lover
 <div>
