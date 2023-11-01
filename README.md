@@ -1,9 +1,9 @@
 ### Hi there, ````i'm Yuhri```` !                     <img align="center" alt="yuhri-avt" width="16%"                src="https://cdn.discordapp.com/attachments/244891533386579969/887345453237149716/4hsh.gif">
 
-- 🔭 I’m a Ruby on Rails Full-Stack Developer 
+- 🔭 Full-Stack Web Developer 
 - 🌱 Graduated from Le Wagon
-- 🎨 I'm a very creative person
-- 🕹️ Technologies and Games Lover
+- 🎨 Creative person
+- 🕹️ Technologies and Games Enthusiastic
 <div>
   <a href="https://github.com/Yuhribrp">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yuhribrp&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
