@@ -1,7 +1,7 @@
 ### Hi there, ````i'm Yuhri```` !                     <img align="center" alt="yuhri-avt" width="16%"                src="https://cdn.discordapp.com/attachments/244891533386579969/887345453237149716/4hsh.gif">
 
-- 🔭 Full-Stack Web Developer 
-- 🌱 Graduated from Le Wagon
+- 💻 Full-Stack Web Developer 
+- 🚐 Graduated from Le Wagon
 - 🎨 Creative person
 - 🕹️ Technologies and Games Enthusiastic
 <div>
