@@ -5,8 +5,8 @@
 - ⌨️ Backend Maestro
 - ⚒️ Api Craftsman
 
- ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) ````BTW````
- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ````BTW````
+- ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) ````BTW````
+- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ````BTW````
 
 <div>
   <a href="https://github.com/Yuhribrp">
