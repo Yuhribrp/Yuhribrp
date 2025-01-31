@@ -46,7 +46,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contributions
 
 ![Snake animation](https://github.com/Yuhribrp/Yuhribrp/blob/output/github-contribution-grid-snake.svg)
 
