@@ -5,6 +5,14 @@
 - ⌨️ Backend Maestro
 - ⚒️ Api Craftsman
 
+<p align="left">
+  <img src="https://simpleicons.org/icons/neovim.svg" alt="Neovim" width="40" height="40" />
+  <img src="https://simpleicons.org/icons/archlinux.svg" alt="Arch Linux" width="40" height="40" />
+</p>
+
+- ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) Neovim BTW
+- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) Arch BTW
+
 <div>
   <a href="https://github.com/Yuhribrp">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yuhribrp&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
